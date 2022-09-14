@@ -16,4 +16,4 @@ Here's a short list of actively developed and widely used packages in the org:
 
 We hope that including projects under the xarray-contrib organization improves project visibility and increases the likelihood of sustainable open source maintenance and development.
 
-To contribute your project, please follow the directions [here](https://github.com/xarray-contrib/xarray-contrib)
+To contribute your project, please follow the directions on the [xarray-contrib](https://github.com/xarray-contrib/xarray-contrib) repository
