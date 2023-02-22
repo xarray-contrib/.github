@@ -13,6 +13,7 @@ Here's a short list of actively developed and widely used packages in the org:
 - [xarray-simlab](https://github.com/xarray-contrib/xarray-simlab) - Xarray extension and framework for computer model simulations
 - [flox](https://github.com/xarray-contrib/flox) - Fast & furious GroupBy operations for dask.array
 - [datatree](https://github.com/xarray-contrib/datatree) - Experimental implementation of a tree-like hierarchical data structure for xarray.
+- [xvec](https://github.com/xarray-contrib/xvec) - Vector data cubes with Xarray and Shapely
 
 We hope that including projects under the xarray-contrib organization improves project visibility and increases the likelihood of sustainable open source maintenance and development.
 
