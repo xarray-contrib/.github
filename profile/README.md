@@ -15,6 +15,7 @@ Here's a short list of actively developed and widely used packages in the org:
 - [datatree](https://github.com/xarray-contrib/datatree) - Experimental implementation of a tree-like hierarchical data structure for xarray.
 - [xvec](https://github.com/xarray-contrib/xvec) - Vector data cubes with Xarray and Shapely
 - [xeofs](https://github.com/xarray-contrib/xeofs) - Dimensionality reduction using EOFs
+- [xarray-regrid](https://github.com/xarray-contrib/xarray-regrid) - Easily and efficiently regrid Xarray objects between two rectilinear grids.
 
 We hope that including projects under the xarray-contrib organization improves project visibility and increases the likelihood of sustainable open source maintenance and development.
 
