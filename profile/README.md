@@ -16,7 +16,7 @@ Here's a short list of actively developed and widely used packages in the org:
 - [xvec](https://github.com/xarray-contrib/xvec) - Vector data cubes with Xarray and Shapely
 - [xeofs](https://github.com/xarray-contrib/xeofs) - Dimensionality reduction using EOFs
 - [xarray-regrid](https://github.com/xarray-contrib/xarray-regrid) - Easily and efficiently regrid Xarray objects between two rectilinear grids.
-- [rasterix](https://github.com/xarray-contrib/xarray-regrid) - Raster handling tools for Xarray, including indexing and rasterization.
+- [rasterix](https://github.com/xarray-contrib/rasterix) - Raster handling tools for Xarray, including indexing and rasterization.
 
 We hope that including projects under the xarray-contrib organization improves project visibility and increases the likelihood of sustainable open source maintenance and development.
 
