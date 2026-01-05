@@ -17,6 +17,7 @@ Here's a short list of actively developed and widely used packages in the org:
 - [xeofs](https://github.com/xarray-contrib/xeofs) - Dimensionality reduction using EOFs
 - [xarray-regrid](https://github.com/xarray-contrib/xarray-regrid) - Easily and efficiently regrid Xarray objects between two rectilinear grids.
 - [rasterix](https://github.com/xarray-contrib/rasterix) - Raster handling tools for Xarray, including indexing and rasterization.
+- [xarray-spatial](https://github.com/xarray-contrib/xarray-spatial) - Spatial analysis algorithms for xarray implemented in numba.
 
 We hope that including projects under the xarray-contrib organization improves project visibility and increases the likelihood of sustainable open source maintenance and development.
 
